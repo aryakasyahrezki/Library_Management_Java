@@ -1,3 +1,4 @@
+#Library Management System
 Welcome to the Library Management System! This Java-based application helps manage library operations, including book inventory, member management, book borrowing, and returning processes.
 
 Table of Contents
@@ -73,3 +74,6 @@ Create a new Pull Request.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+If you have any questions or need further assistance, please contact us at library.support@example.com.
